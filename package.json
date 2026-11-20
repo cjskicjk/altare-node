@@ -1,0 +1,1 @@
+{"description":"Altare 免费容器上的 sing-box VLESS 节点","main":"index.js","name":"altare-node","scripts":{"start":"node index.js"},"version":"1.0.0"}
